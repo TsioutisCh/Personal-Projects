@@ -8,6 +8,7 @@ This repository contains small personal projects from different sources
 * Created age bracket column for better visualizations (use of nested if statements)
 
 ### Pivot Tables
+* Created and edited 3 pivot tables.
 
 ### Dashboard Creation
 * Use of slices & connections for the pivot tables
